@@ -36,7 +36,7 @@ form.addEventListener('submit', (e) => {
     form.appendChild(p)
 
   } else{
-    alert('Insira uma hora válida')
+    alert('Insira uma hora válida121')
   }
 })
 
